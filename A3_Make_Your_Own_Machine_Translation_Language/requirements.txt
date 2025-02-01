@@ -1,0 +1,11 @@
+numpy==1.26.4
+torch==2.1.2
+torchtext==0.16.2  # Adjust based on your Torch version
+pandas 
+pythainlp 
+spacy
+spacy_thai
+matplotlib
+scikit-learn
+streamlit
+# !python -m spacy download en_core_web_sm
